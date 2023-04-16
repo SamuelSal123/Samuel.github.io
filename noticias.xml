@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Noticias de Samuel</title>
+  <link>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/</link>
+  <description>Las noticias más revelantes</description>
+  <item>
+    <title>Más expulsados en LaLiga que la suma de Premier, Bundesliga y Serie A</title>
+    <link>https://elpais.com/deportes/2023-04-16/mas-expulsados-en-laliga-que-la-suma-de-premier-bundesliga-y-serie-a.html</link>
+    <description>LA liga, Premier, Bundesliga y Serie A</description>
+  </item>
+  <item>
+    <title>El Barcelona se queda seco: sin Pedri y Dembélé, Lewandowski marca un tercio de los goles que promediaba al inicio de la Liga</title>
+    <link>https://elpais.com/deportes/2023-04-16/el-barcelona-se-queda-seco-sin-pedri-y-dembele-lewandowski-marca-un-tercio-de-los-goles-que-promediaba-al-inicio-de-la-liga.html</link>
+    <description>Barcelona sin sus estrellas</description>
+  </item>
+  <item>
+    <title>Nacho cumple hasta con el gol</title>
+    <link>https://elpais.com/deportes/2023-04-15/nacho-cumple-hasta-con-el-gol.html</link>
+    <description>Hasta Nacho marca goles</description>
+  </item>
+  <item>
+    <title>Mbappé se asocia con Messi para castigar a un dignísimo Lens</title>
+    <link>https://elpais.com/deportes/2023-04-15/mbappe-se-asocia-con-messi-para-castigar-a-un-dignisimo-lens.html</link>
+    <description>Messi pasea por Lens</description>
+  </item>
+  <item>
+    <title>Iñaki Williams renace con sus goles para vencer a la Real</title>
+    <link>https://elpais.com/deportes/2023-04-15/inaki-williams-renace-con-sus-goles-para-vencer-a-la-real.html</link>
+    <description>Iñaki Williams vence a la Real</description>
+  </item>
+  <item>
+    <title>El Barça viaja por primera vez en AVE para acudir a un partido de liga</title>
+    <link>https://elpais.com/clima-y-medio-ambiente/2023-04-15/el-barca-viaja-por-primera-vez-en-ave-para-acudir-a-un-partido-de-liga.html</link>
+    <description>El Barça viaja por primera vez en AVE</description>
+  </item>
+</channel>
+</rss>
